@@ -1,6 +1,4 @@
-# Blinkit Sales Analysis Report
-
-## Problem Statement
+# Blinkit Sales Analysis Problem Statement
 
 ### Dashboard 1: Summary
 
