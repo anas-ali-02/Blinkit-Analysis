@@ -1,4 +1,3 @@
-# Blinkit-Analysis
 # Blinkit Sales Analysis Report
 
 ## Problem Statement
